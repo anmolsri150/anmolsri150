@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Vue.js | Javascript
 - 💬 Ask me about Full Stack Development
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anmolsri150/) OR anmol150srivastava@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anmolsri150/)
