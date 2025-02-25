@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 ### Hello Contributors 👋
 
 
-- 🔭 I’m currently working on Vue.js | Javascript
 - 💬 Ask me about Full Stack Development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anmolsri150/)
